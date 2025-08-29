@@ -1,5 +1,5 @@
 # 🚀 Priyanshu Halder – AI-Powered Portfolio
-
+live demo: "https://priyanshuhalder3.netlify.app/"
 This repository contains my **AI-powered, modern, interactive portfolio** featuring:  
 
 - 🌟 **AI Chatbot** (floating widget, streaming responses, localStorage history)  
